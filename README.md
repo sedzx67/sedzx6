@@ -12,7 +12,7 @@
 
 <img src="./profile-photo.jpg" width="150" height="150" style="border-radius: 50%;" alt="Muhammad Akiq Al-Hai"/>
 
-# Hi, I'm Muhammad Akiq Al-Hai 👋
+# Hi, I'm Muhammad Aqil Alhay 👋
 
 ### Cyber Security Student | Aspiring Cyber Security Professional
 
@@ -36,7 +36,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Muhammad Akiq Al-Hai**, a Cyber Security student with an interest in technology, computing, and the evolving world of digital security.
+Hello! I'm **Muhammad Aqil Alhay**, a Cyber Security student with an interest in technology, computing, and the evolving world of digital security.
 
 I am currently developing my understanding of programming and exploring the foundations of computer science and cybersecurity.
 
